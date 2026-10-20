@@ -10,3 +10,6 @@ __pycache__/
 *.csv
 outputs/
 !examples/*.csv
+
+!examples/*.xlsx
+!examples/*.xls
